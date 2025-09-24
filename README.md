@@ -1,7 +1,7 @@
 # Crosswalk Assistive Robot Powered by Image Classification
 
 ### Project Overview
-The crosswalk assistive robot helps blind individuals safely cross by conveying crosswalk conditions through image classification of images, such as crossing and stop signals
+The crosswalk assistive robot helps blind individuals safely cross the crosswalk without a voice assistant by conveying crosswalk conditions through image classification
 
 ## Phase 1: Multiclass Image Classification
 Deep CNN model for multiclass classification
