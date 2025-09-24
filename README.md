@@ -15,6 +15,7 @@ Deep CNN model for multiclass classification
 ### Used Python Libraries
 ### Next steps
 - Use VScode (just check if VScode can run multi languages)
+- Use laptop speaker to tell the conditions
 
 **Key hardware components**: Arduino
 ### Constraints
