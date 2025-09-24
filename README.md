@@ -8,6 +8,6 @@ text
 
 ### Used Python Libraries
 ### Next steps
-### Key hardware components
+**Key hardware components**: Arduino
 ### Constraints
 ### Possible further improvements
